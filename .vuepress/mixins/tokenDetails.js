@@ -16,8 +16,8 @@ export default {
           operable: false,
           tokenRecover: false,
           removeCopyright: false,
-          originalPrice: 0,
-          price: 0,
+          originalPrice: 0.15,
+          price: 0.15,
           gas: 1330639,
         },
         {
