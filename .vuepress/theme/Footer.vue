@@ -37,9 +37,9 @@
                 <b-list-group flush>
                     <b-list-group-item>
                         <small>
-                            created by
+                            
                             <b-link class="text-warning" href="https://tokencenter.github.io/bep20-generator/#" target="_blank">
-                                Vittorio Minacori
+                                Token Center
                             </b-link>
                         </small>
                     </b-list-group-item>
