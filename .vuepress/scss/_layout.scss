@@ -51,7 +51,15 @@ body {
     background: linear-gradient(40deg,#ff0084,#33001b)!important;
   }
 
-  
+  .footer {
+    .list-group-item {
+      background: none;
+
+      &:focus {
+        outline: none;
+      }
+    }
+  }
 
   @media (max-width: 576px) {
     .jumbotron .display-3 {
