@@ -37,9 +37,9 @@
                 <b-list-group flush>
                     <b-list-group-item>
                         <small>
-                            created by
+                            by
                             <b-link class="text-warning" href="#" target="_blank">
-                                Vittorio Minacori
+                                Token Center
                             </b-link>
                         </small>
                     </b-list-group-item>
