@@ -1,7 +1,7 @@
 <template>
     <b-container fluid class="footer">
         <b-row class="bg-dark text-light py-4">
-            <b-col lg="-12" xl="-8" offset-xl="-2">
+            <b-col lg="12" xl="8" offset-xl="2">
                 <b-row>
                     <b-col lg="4">
                         <b-list-group flush>
