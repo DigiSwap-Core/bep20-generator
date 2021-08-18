@@ -50,13 +50,13 @@
                  title="Terms of Use"
                  size="lg"
                  centered
-                 hide-footer=true>
+                 hide-footer>
             <b-embed
                     type="iframe"
                     aspect="4by3"
                     src="https://tokencenter.github.io/bep20-generator-terms/"
                     allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
-                    allowfullscreen
+                    true
             ></b-embed>
         </b-modal>
     </b-container>
