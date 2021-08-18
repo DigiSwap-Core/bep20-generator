@@ -50,7 +50,7 @@
                  title="Terms of Use"
                  size="lg"
                  centered
-                 hide-footer>
+                 hide-footer=true>
             <b-embed
                     type="iframe"
                     aspect="4by3"
