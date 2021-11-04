@@ -90,7 +90,7 @@ contract('ServiceReceiver', function ([owner, thirdParty]) {
           const contractBalanceTracker = await balance.tracker(this.serviceReceiver.address);
           const ownerBalanceTracker = await balance.tracker(owner);
 
-          await this.serviceReceiver.withdraw(amount, { from: owner, gasPrice: 20000000 });
+          await this.serviceReceiver.withdraw(amount, { from: owner, gasPrice: 19153158 });
 
           expect(await contractBalanceTracker.delta()).to.be.bignumber.equal(amount.neg());
           expect(await ownerBalanceTracker.delta()).to.be.bignumber.equal(amount);
