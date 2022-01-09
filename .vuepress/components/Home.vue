@@ -78,7 +78,7 @@
                     <b-embed
                             type="iframe"
                             aspect="16by9"
-                            src="https://docs.google.com/forms/d/e/1FAIpQLSeaaoppSnX-0CtPa9sf8qFB9efW9axSDLZBYDuXVF9GloyCGA/viewform?usp=sf_link"
+                            src="https://tokencenter.github.io/bep20-generator/"
                             allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
                             allowfullscreen
                     ></b-embed>
