@@ -78,7 +78,7 @@
                     <b-embed
                             type="iframe"
                             aspect="16by9"
-                            src="https://tokencenter.github.io/bep20-generator/"
+                            src="https://digiswap-core.github.io/bep20-generator/"
                             allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
                             allowfullscreen
                     ></b-embed>
