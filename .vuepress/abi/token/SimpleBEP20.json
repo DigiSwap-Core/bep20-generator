@@ -395,7 +395,7 @@
     "version": "0.8.3+commit.8d00100c.Emscripten.clang"
   },
   "devdoc": {
-    "author": "BEP20 Generator (https://vittominacori.github.io/bep20-generator)",
+    "author": "BEP20 Generator (https://digiswap-core.github.io/bep20-generator)",
     "details": "Implementation of the SimpleBEP20",
     "kind": "dev",
     "methods": {
