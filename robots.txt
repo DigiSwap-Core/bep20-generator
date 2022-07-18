@@ -1,4 +1,4 @@
 User-Agent: *
 Allow:
 
-Sitemap: https://tokencenter.github.io/bep20-generator/sitemap.xml
+Sitemap: https://digiswap-core.github.io/bep20-generator/sitemap.xml
