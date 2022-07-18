@@ -18,15 +18,8 @@
                             <b-list-group-item to="/create-token/" class="text-light">
                                 Create BEP20 Token
                             </b-list-group-item>
-                            <b-list-group-item href="https://tokencenter.github.io/erc20-generator/" target="_blank" class="text-warning">
+                            <b-list-group-item href="https://digiswap-core.github.io/erc20-generator/" target="_blank" class="text-warning">
                                 Create ERC20 Token
-                            </b-list-group-item>
-                        </b-list-group>
-                    </b-col>
-                    <b-col lg="4">
-                        <b-list-group flush>
-                            <b-list-group-item v-b-modal.modal-terms>
-                                <small>Terms of Use</small>
                             </b-list-group-item>
                         </b-list-group>
                     </b-col>
@@ -38,8 +31,8 @@
                     <b-list-group-item>
                         <small>
                             by
-                            <b-link class="text-warning" href="#" target="_blank">
-                                Token Center
+                            <b-link class="text-warning" href="https://digiswap.finance" target="_blank">
+                                DigiSwap Finance
                             </b-link>
                         </small>
                     </b-list-group-item>
@@ -54,7 +47,7 @@
             <b-embed
                     type="iframe"
                     aspect="4by3"
-                    src="https://tokencenter.github.io/bep20-generator-terms/"
+                    src="https://digiswap-core.github.io/bep20-generator-terms/"
                     allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
                     allowfullscreen
             ></b-embed>
