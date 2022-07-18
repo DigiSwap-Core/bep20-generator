@@ -201,7 +201,7 @@
                                         This behaviour is derived by ERC20 Token Recover.
                                     </span>
                                 </b-card-text>
-                                <b-link href="https://tokencenter.github.io/eth-token-recover/"
+                                <b-link href="https://digiswap-core.github.io/eth-token-recover/"
                                         class="card-link" target="_blank">
                                     Discover Token Recover
                                 </b-link>
