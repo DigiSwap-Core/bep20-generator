@@ -13,5 +13,5 @@ meta:
     - property: og:description
       content: BEP20 Token Generator Tool Documentation. Discover more details about different BEP20 Token Types, ABI, source code and analysis report.
     - property: og:url
-      content: https://tokencenter.github.io/bep20-generator/docs/
+      content: https://digiswap-core.github.io/bep20-generator/docs/
 ---
